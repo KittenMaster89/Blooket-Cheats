@@ -32,7 +32,7 @@
                     stage: "prize",
                     choiceObj: { type: "swap" }
                 });
-            });
+            }); 
         }
     });
 })();
